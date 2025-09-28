@@ -1,4 +1,4 @@
-# Title: hostsVN Gambling VN
+# Title: Add domains
 # Last modified: 28 Sep 2025 20:45 UTC+2
 # downloaded from: https://gist.github.com/HiddenMotives/b627aa1a0baa90cbca6a
 #

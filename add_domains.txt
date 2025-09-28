@@ -3,6 +3,7 @@
 # downloaded from: https://gist.github.com/HiddenMotives/b627aa1a0baa90cbca6a
 #
 # =====================================================
+0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 fr.a2dfp.net
 0.0.0.0 m.fr.a2dfp.net
 0.0.0.0 mfr.a2dfp.net
